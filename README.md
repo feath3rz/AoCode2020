@@ -11,6 +11,13 @@ Those who complete the challenge very fast have a mastery of the language and pr
 ## My Goal for 2020
 I really wanted to learn Python since people seem to use it often and some said it was easy.  I believe "easy" is relative and it is different for every person. I love learning different languages and felt Python would be a fun one to attempt. Although I have learned Java in school, using a new language would be more fun and I learn best when I'm challenged.
 
+## How it works (and my setup)
+Advent of Code gives a data set which you process through your code to come up with a numerical answer. The data is different for each user so answers are not the same for everyone. The solver enters the answer that was determined by the code output. If it is correct, you get a star.
+My setup:
+- I will copy the text for each day at the top of my python code but you can view Part 1 of each day on the website which I will also link in the code.
+- Part 2 cannot be seen by those who have not solved Part 1
+- My code will follow.
+
 ## Important to Note
 There are some important things to mention when looking at my code in this repository.
 - The goal of Advent of Code is to solve the problem
