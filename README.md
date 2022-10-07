@@ -17,6 +17,7 @@ My setup:
 - I will copy the text for each day at the top of my python code but you can view Part 1 of each day on the website which I will also link in the code.
 - Part 2 cannot be seen by those who have not solved Part 1
 - My code will follow.
+- I won't be including the provided puzzle input since it's always different for different users.
 
 ## Important to Note
 There are some important things to mention when looking at my code in this repository.
@@ -25,6 +26,12 @@ There are some important things to mention when looking at my code in this repos
 - As such, the code will likely look very rough and inefficient since once the solution is found, revising the code is not a priority
 - Comments will also not be many (or at all) due to speed being the factor but I understand that extensive comments are necessary for code especially in business situations. Legacy is important and clarity to another coder is extremely important.
 - My solutions for all of this was done without looking at other coder's solutions. I came up with my own, so it might look patchworky, but it's my own.
+
+### Update:
+- Day 17 I wasn't able to reconfirm it works because it took too long so I may have to revisit this.
+- Day 20 and 21 were solved with means that were not Python. I should update in the future and write a Python for it when I have time
+- Day 23 Part 1 meets near the solution end, but it outputs what needs to be briefly interpreted for the result (it's really just counting).
+- Day 23 Part 2 has a bad solution and I need to rewrite this one.
 
 Here we go!
 
