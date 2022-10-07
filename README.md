@@ -2,7 +2,7 @@
 I decided to attempt completing Advent of Code 2020 to learn Python.  Overall it went pretty well.. I think there are a few times I did some by hand?
 
 ## What is Advent of Code?
-Advent of Code is a coding challenge released during December from the 1st to the 25th. Each day you're given a challenge in two parts. The first part is often linked to how you handle the second part and you're awarded stars. The best of the best always seem to complete each challenge super fast. Days can be skipped unless a previous day's code relates to a following day (this is rare, I believe I only seen this happen one year).
+Advent of Code is a coding challenge released during December from the 1st to the 25th. Each day you're given a challenge in two parts. The first part is often linked to how you handle the second part and you're awarded stars. As the days roll forward, the challenges become harder and testing both efficiency, memory, and runtime. The best of the best always seem to complete each challenge super fast. Days can be skipped unless a previous day's code relates to a following day (this is rare, I believe I only seen this happen one year).
 - https://adventofcode.com/2020
 
 ##### My thoughts
@@ -16,7 +16,7 @@ Advent of Code gives a data set which you process through your code to come up w
 My setup:
 - I will copy the text for each day at the top of my python code but you can view Part 1 of each day on the website which I will also link in the code.
 - Part 2 cannot be seen by those who have not solved Part 1
-- My code will follow.
+- My code will follow. (remember, I'm learning so it's not too elegant)
 - I won't be including the provided puzzle input since it's always different for different users.
 
 ## Important to Note
@@ -27,7 +27,7 @@ There are some important things to mention when looking at my code in this repos
 - Comments will also not be many (or at all) due to speed being the factor but I understand that extensive comments are necessary for code especially in business situations. Legacy is important and clarity to another coder is extremely important.
 - My solutions for all of this was done without looking at other coder's solutions. I came up with my own, so it might look patchworky, but it's my own.
 
-### Update:
+#### Update:
 - Day 17 I wasn't able to reconfirm it works because it took too long so I may have to revisit this.
 - Day 20 and 21 were solved with means that were not Python. I should update in the future and write a Python for it when I have time
 - Day 23 Part 1 meets near the solution end, but it outputs what needs to be briefly interpreted for the result (it's really just counting).
